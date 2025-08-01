@@ -6,3 +6,10 @@
 📁 This repository contains my academic and personal projects  
 
 Stay tuned for updates!
+
+
+## Mini Project: Hello World Program
+
+This is a simple Python program that prints "Hello, World!" on the screen.
+
+[View project file here](https://github.com/akshaya/portfolio/blob/main/hello_world.py)
