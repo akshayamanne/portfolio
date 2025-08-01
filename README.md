@@ -12,4 +12,4 @@ Stay tuned for updates!
 
 This is a simple Python program that prints "Hello, World!" on the screen.
 
-[View project file here](https://github.com/akshaya/portfolio/blob/main/hello_world.py)
+[View project file here](https://github.com/akshayamanne/portfolio/blob/main/hello_world.py)
